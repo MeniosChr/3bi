@@ -1,5 +1,4 @@
-3bi is a high level intelligent bot written in c. You can chat with him, learn him 
-or learn by him. 3bi takes an input, tokenize it and puts it in a  circular linked list.
+3bi is a high level intelligent bot written in c. You can chat with him, learn him or learn by him. 3bi takes an input, tokenize it and puts it in a  circular linked list. 
 3bit language:
 -"learn this >(what do you want to taught 3bi):(followed by text if you want to)"
 for example learn this > Running : Running means Walking very fast
